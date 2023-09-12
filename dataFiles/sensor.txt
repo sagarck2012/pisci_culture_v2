@@ -1,0 +1,7 @@
+
+------------------------2023-05-08 16:25:32.192194---------------------
+{"code": 200, "message": "Success", "PH": [{"id": 1159, "DeviceCode": "20230313902025", "SensorName": "PH", "value": 7.5, "Timeime": "2023-05-08 16:20:58"}], "DO": [{"id": 1160, "DeviceCode": "20230313902025", "SensorName": "DO", "value": 14.3, "Timeime": "2023-05-08 16:20:58"}], "Temp": [{"id": 1161, "DeviceCode": "20230313902025", "SensorName": "Temp", "value": 35.6, "Timeime": "2023-05-08 16:20:58"}]}
+------------------------2023-05-08 16:32:28.647906---------------------
+{"code": 200, "message": "Success", "PH": [{"id": 1180, "DeviceCode": "20230313902025", "SensorName": "PH", "value": 9, "Timeime": "2023-05-08 16:32:23"}], "DO": [{"id": 1181, "DeviceCode": "20230313902025", "SensorName": "DO", "value": 5.186836925723195, "Timeime": "2023-05-08 16:32:23"}], "Temp": [{"id": 1182, "DeviceCode": "20230313902025", "SensorName": "Temp", "value": 35.2, "Timeime": "2023-05-08 16:32:23"}]}
+------------------------2023-05-08 16:34:42.003838---------------------
+{"code": 200, "message": "Success", "PH": [{"id": 1186, "DeviceCode": "20230313902025", "SensorName": "PH", "value": 8.9, "Timeime": "2023-05-08 16:34:30"}], "DO": [{"id": 1187, "DeviceCode": "20230313902025", "SensorName": "DO", "value": 5.9, "Timeime": "2023-05-08 16:34:31"}], "Temp": [{"id": 1188, "DeviceCode": "20230313902025", "SensorName": "Temp", "value": 35.1, "Timeime": "2023-05-08 16:34:31"}]}
